@@ -1,3 +1,3 @@
 # Mouse
 
-- Logitech
+- Apple Mouse
